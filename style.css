@@ -1,0 +1,11 @@
+
+.metabar {
+  position: relative;
+  max-width: 1000px!important;
+  padding-right: 20px!important;
+  padding-left: 20px!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  display: block;
+  font-size: 14px;
+}
